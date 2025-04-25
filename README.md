@@ -4,15 +4,17 @@
 <br />
 </div>
 
-# 🤖 Bun Agent Project
+# 🤖 Bun Codey Agent
 
-Welcome to your Agentuity Bun Agent project! This README provides essential information to help you get started with developing, testing, and deploying your AI agents.
+This is a simple agent that can help you with understanding source code and answering questions about it and performing tasks related to it.
 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
 
 - **Bun**: Version 1.2.4 or higher
+
+The `.env.example` file has examples of the environment variables you need to set in your local `.env` file. If you're importing this project into Agentuity, copy the `.env.example` file to `.env` and then run `agentuity project import`.
 
 ## 🚀 Getting Started
 
@@ -103,4 +105,4 @@ If you encounter any issues:
 
 ## 📝 License
 
-This project is licensed under the terms specified in the LICENSE file.
+This source code is free to use and modify under the terms of the MIT license.
