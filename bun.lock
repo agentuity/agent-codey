@@ -5,7 +5,7 @@
       "name": "codey",
       "dependencies": {
         "@agentuity/sdk": "^0.0.108",
-        "@ai-sdk/openai": "^1.3.20",
+        "@ai-sdk/google": "^1.2.13",
         "ai": "^4.3.10",
       },
       "devDependencies": {
@@ -19,7 +19,7 @@
   "packages": {
     "@agentuity/sdk": ["@agentuity/sdk@0.0.108", "", { "dependencies": { "@opentelemetry/api": "^1.9.0", "@opentelemetry/api-logs": "^0.57.2", "@opentelemetry/auto-instrumentations-node": "^0.56.1", "@opentelemetry/core": "^1.21.0", "@opentelemetry/exporter-logs-otlp-http": "^0.57.2", "@opentelemetry/exporter-metrics-otlp-http": "^0.57.2", "@opentelemetry/exporter-trace-otlp-http": "^0.57.2", "@opentelemetry/host-metrics": "^0.35.5", "@opentelemetry/resources": "^1.30.1", "@opentelemetry/sdk-logs": "^0.57.2", "@opentelemetry/sdk-metrics": "^1.30.1", "@opentelemetry/sdk-node": "^0.57.2", "@opentelemetry/semantic-conventions": "^1.30.0", "js-yaml": "^4.1.0" }, "peerDependencies": { "typescript": "^5" } }, "sha512-Eijcvtqyidm3UIKHTdYRa/4grCd6HPDwGoIRgwfzPxL0Gnx6bTHsjWETQ0qUHj9p5lr8Bf3c/vulZD+WxEp1vg=="],
 
-    "@ai-sdk/openai": ["@ai-sdk/openai@1.3.20", "", { "dependencies": { "@ai-sdk/provider": "1.1.3", "@ai-sdk/provider-utils": "2.2.7" }, "peerDependencies": { "zod": "^3.0.0" } }, "sha512-/DflUy7ROG9k6n6YTXMBFPbujBKnbGY58f3CwvicLvDar9nDAloVnUWd3LUoOxpSVnX8vtQ7ngxF52SLWO6RwQ=="],
+    "@ai-sdk/google": ["@ai-sdk/google@1.2.13", "", { "dependencies": { "@ai-sdk/provider": "1.1.3", "@ai-sdk/provider-utils": "2.2.7" }, "peerDependencies": { "zod": "^3.0.0" } }, "sha512-nnHDzbX1Zst28AjP3718xSWsEqx++qmFuqmnDc2Htelc02HyO6WkWOXMH+YVK3W8zdIyZEKpHL9KKlql7pa10A=="],
 
     "@ai-sdk/provider": ["@ai-sdk/provider@1.1.3", "", { "dependencies": { "json-schema": "^0.4.0" } }, "sha512-qZMxYJ0qqX/RfnuIaab+zp8UAeJn/ygXXAffR5I4N0n1IrvA6qBsjc8hXLmBiMV2zoXlifkacF7sEFnYnjBcqg=="],
 
