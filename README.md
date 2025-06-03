@@ -4,6 +4,8 @@
 <br />
 </div>
 
+[![Deploy with Agentuity](https://app.agentuity.com/img/deploy.svg)](https://app.agentuity.com/deploy)
+
 # 🤖 Bun Codey Agent
 
 This is a simple agent that can help you with understanding source code and answering questions about it and performing tasks related to it.
